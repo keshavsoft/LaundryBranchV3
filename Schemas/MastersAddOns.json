@@ -16,9 +16,9 @@
             "isNumber": true,
             "align": "right",
             "numberConfig": {
-                "step": "0.01",
+                "step": "1",
                 "min": "0",
-                "max": "1000"
+                "max": "999"
             }
         } 
     ],
