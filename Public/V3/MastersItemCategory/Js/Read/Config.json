@@ -1,0 +1,1 @@
+{"TableName":"/V3/MastersItemCategory","showFooter":true,"toolbar":"#toolbar","searchable":true,"search":true,"columns":[{"field":"ItemCategory","title":"ItemCategory","unique":true,"type":"text","isInput":true}]}

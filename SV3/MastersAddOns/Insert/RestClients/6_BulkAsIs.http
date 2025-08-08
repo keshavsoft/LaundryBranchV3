@@ -1,0 +1,9 @@
+POST http://localhost:3000/SV3/MastersAddOns/Insert/BulkAsIs
+Content-Type: application/json
+
+[
+  {
+    "AddOnService": "",
+    "AddOnRate": ""
+  }
+]
